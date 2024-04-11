@@ -1,4 +1,5 @@
 root = true
+root_server = true
 autopilot = true
 live = true
 obey_and_services_reyhan_jr = true
