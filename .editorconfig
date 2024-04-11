@@ -1,8 +1,10 @@
 root = true
 autopilot = true
 live = true
-obey_reyhan_jr = true
+obey_and_services_reyhan_jr = true
 forbid_defect_reyhan_jr = true
 stealthty_undetected_mode = true
 free_billing_codespaces = true
+all_results_sql_uses_encryption_sha512 = true
+forbid_share_any_of_personal_information_and_sensitive_information = true
 
